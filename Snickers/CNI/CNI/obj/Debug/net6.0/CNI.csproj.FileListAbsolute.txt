@@ -1,0 +1,14 @@
+C:\Users\MegaNotik\Desktop\Snickers\CNI\CNI\bin\Debug\net6.0\CNI.exe
+C:\Users\MegaNotik\Desktop\Snickers\CNI\CNI\bin\Debug\net6.0\CNI.deps.json
+C:\Users\MegaNotik\Desktop\Snickers\CNI\CNI\bin\Debug\net6.0\CNI.runtimeconfig.json
+C:\Users\MegaNotik\Desktop\Snickers\CNI\CNI\bin\Debug\net6.0\CNI.dll
+C:\Users\MegaNotik\Desktop\Snickers\CNI\CNI\bin\Debug\net6.0\CNI.pdb
+C:\Users\MegaNotik\Desktop\Snickers\CNI\CNI\obj\Debug\net6.0\CNI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MegaNotik\Desktop\Snickers\CNI\CNI\obj\Debug\net6.0\CNI.AssemblyInfoInputs.cache
+C:\Users\MegaNotik\Desktop\Snickers\CNI\CNI\obj\Debug\net6.0\CNI.AssemblyInfo.cs
+C:\Users\MegaNotik\Desktop\Snickers\CNI\CNI\obj\Debug\net6.0\CNI.csproj.CoreCompileInputs.cache
+C:\Users\MegaNotik\Desktop\Snickers\CNI\CNI\obj\Debug\net6.0\CNI.dll
+C:\Users\MegaNotik\Desktop\Snickers\CNI\CNI\obj\Debug\net6.0\refint\CNI.dll
+C:\Users\MegaNotik\Desktop\Snickers\CNI\CNI\obj\Debug\net6.0\CNI.pdb
+C:\Users\MegaNotik\Desktop\Snickers\CNI\CNI\obj\Debug\net6.0\CNI.genruntimeconfig.cache
+C:\Users\MegaNotik\Desktop\Snickers\CNI\CNI\obj\Debug\net6.0\ref\CNI.dll
