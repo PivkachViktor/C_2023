@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Autos>
+	<Auto>
+		<LastName>Smith</LastName>
+		<CarNumber>ABC123</CarNumber>
+		<Brand>Ford</Brand>
+		<Price>25000</Price>
+		<Address>123 Main St, City1</Address>
+	</Auto>
+	<Auto>
+		<LastName>Johnson</LastName>
+		<CarNumber>XYZ789</CarNumber>
+		<Brand>Chevrolet</Brand>
+		<Price>22000</Price>
+		<Address>456 Elm St, City2</Address>
+	</Auto>
+	<Auto>
+		<LastName>Doe</LastName>
+		<CarNumber>777LCK</CarNumber>
+		<Brand>Ford</Brand>
+		<Price>27000</Price>
+		<Address>789 Oak St, City3</Address>
+	</Auto>
+</Autos>
