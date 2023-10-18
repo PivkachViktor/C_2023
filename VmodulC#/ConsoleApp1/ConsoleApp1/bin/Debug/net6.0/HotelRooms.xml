@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHotelRoom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HotelRoom>
+    <RoomNumber>111</RoomNumber>
+    <Floor>1</Floor>
+    <Capacity>4</Capacity>
+    <DailyRate>100</DailyRate>
+  </HotelRoom>
+  <HotelRoom>
+    <RoomNumber>112</RoomNumber>
+    <Floor>1</Floor>
+    <Capacity>3</Capacity>
+    <DailyRate>120</DailyRate>
+  </HotelRoom>
+  <HotelRoom>
+    <RoomNumber>113</RoomNumber>
+    <Floor>2</Floor>
+    <Capacity>2</Capacity>
+    <DailyRate>90</DailyRate>
+  </HotelRoom>
+  <HotelRoom>
+    <RoomNumber>114</RoomNumber>
+    <Floor>2</Floor>
+    <Capacity>1</Capacity>
+    <DailyRate>130</DailyRate>
+  </HotelRoom>
+  <HotelRoom>
+    <RoomNumber>114</RoomNumber>
+    <Floor>3</Floor>
+    <Capacity>1</Capacity>
+    <DailyRate>130</DailyRate>
+  </HotelRoom>
+</ArrayOfHotelRoom>
