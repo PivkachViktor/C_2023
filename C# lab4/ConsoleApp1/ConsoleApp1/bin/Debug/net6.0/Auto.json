@@ -1,0 +1,23 @@
+[
+  {
+    "LastName": "Ivanov",
+    "CarNumber": "AB123CD",
+    "Brand": "Ford",
+    "Price": 25000.0,
+    "HomeAddress": "Kyiv"
+  },
+  {
+    "LastName": "Petrov",
+    "CarNumber": "XY777ZZ",
+    "Brand": "Honda",
+    "Price": 30000.0,
+    "HomeAddress": "Lviv"
+  },
+  {
+    "LastName": "Sidorov",
+    "CarNumber": "YZ987AB",
+    "Brand": "Ford",
+    "Price": 28000.0,
+    "HomeAddress": "Odesa"
+  }
+]
