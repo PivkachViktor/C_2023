@@ -1,0 +1,22 @@
+﻿INSERT INTO Employees (EmployeeID, LastName, RoomNumber, Department, ComputerDetails)
+VALUES
+    (1, 'Smith', 101, 'IT', 'Model: Lenovo, Serial: ABC123'),
+    (2, 'Johnson', 102, 'HR', 'Model: Dell, Serial: DEF456'),
+    (3, 'Williams', 103, 'Finance', 'Model: HP, Serial: GHI789'),
+    (4, 'Jones', 104, 'Marketing', 'Model: Acer, Serial: JKL012'),
+    (5, 'Brown', 105, 'IT', 'Model: Asus, Serial: MNO345'),
+    (6, 'Davis', 106, 'Finance', 'Model: Toshiba, Serial: PQR678'),
+    (7, 'Miller', 107, 'Marketing', 'Model: Apple, Serial: STU901'),
+    (8, 'Wilson', 108, 'HR', 'Model: Samsung, Serial: VWX234'),
+    (9, 'Moore', 109, 'IT', 'Model: Lenovo, Serial: YZA567'),
+    (10, 'Taylor', 110, 'Finance', 'Model: Dell, Serial: BCD890'),
+    (11, 'Anderson', 111, 'Marketing', 'Model: HP, Serial: EFG123'),
+    (12, 'Thomas', 112, 'HR', 'Model: Asus, Serial: HIJ456'),
+    (13, 'Jackson', 113, 'IT', 'Model: Acer, Serial: KLM789'),
+    (14, 'White', 114, 'Finance', 'Model: Apple, Serial: NOP012'),
+    (15, 'Harris', 115, 'Marketing', 'Model: Dell, Serial: QRS345'),
+    (16, 'Martin', 116, 'HR', 'Model: HP, Serial: TUV678'),
+    (17, 'Thompson', 117, 'IT', 'Model: Samsung, Serial: WXY901'),
+    (18, 'Garcia', 118, 'Finance', 'Model: Lenovo, Serial: ZAB234'),
+    (19, 'Martinez', 119, 'Marketing', 'Model: Toshiba, Serial: CDE567'),
+    (20, 'Robinson', 120, 'HR', 'Model: Acer, Serial: FGH890');
